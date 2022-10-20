@@ -1,7 +1,7 @@
 ---
 title: 'Pesquisa Literária com R: Metodologia com Quanteda tomando como exemplo
   o Livro do Desassossego'
-author: "Diego Giménenez e Andressa Gomide"
+author: "Diego Giménez e Andressa Gomide"
 output:
   html_document:
     df_print: paged
@@ -359,4 +359,4 @@ O código pode ser visualizado em <https://rpubs.com/gomide/quanteda_LdoD>
 ***
 
 ## Agradecimentos
-Os códigos aqui descritos utilizaram os códigos gentilmente cedidos por Mark Alfano, utilizados em seu trabalho "Nietzsche corpus analysis".
+Alguns dos códigos aqui descritos utilizaram os códigos gentilmente cedidos por Mark Alfano, utilizados em seu trabalho "Nietzsche corpus analysis".
